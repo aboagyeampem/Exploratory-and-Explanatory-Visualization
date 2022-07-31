@@ -12,4 +12,4 @@ For my presentation, I focused on the gender and duration distribution. I also l
 First, males made up 74.6 % of the total number of bikers followed by females with 23.4 % and the remainder being bikers who did not declared their gender. Seondly, majority of bikers completed their trips in 2000 seconds or less. i.e. approxiamate 33 mins or less and that there is medium to strong correlation between bikers 50 years and less who complete their trips approximately 17 minutes or less but barely no correlation between age and durations for the other bikers completing their trips beyond approximately 17 mins. Finally, I found that most trip distance is covered between morning and evening and bikers above 65 years avoid starting their trips in the late evening, dawn and midnight periods of the day.
 
 
-### Check the Readme file attached for more details
+### Check the Readme file (html file) attached for more details on the insights gathered from the viz
