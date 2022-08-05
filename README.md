@@ -7,7 +7,7 @@ The data consists of information on 183411 trips across the San Francesco Bay by
 A bit of data wrangling (including feature engineering) was done to render the dataset useable for generating insights via visualizations. Features added include age of bikers, start and end hour, period of day, day of week and distance covered in kilometers.
 
 ## Key Insights for Presentation
-For my presentation, A slide was generated from jupyter notebook which focused on the gender and duration distribution, the relation between bikers age and their duration of trip and finally the relation betwen the period of day, bikers age and the durationsof trips.
+For my presentation, A slide was generated from jupyter notebook which focused on the gender and duration distribution, the relation between bikers age and their duration of trip and finally the relation between the period of day, bikers age and the durations of trips.
 
 
 ### Check the Readme file (html file) attached for more details on the insights gathered from the viz
